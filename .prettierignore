@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+.sites-local/
+.resume-preview/
+package-lock.json
+public/
+AGENTS.md
+next-env.d.ts
